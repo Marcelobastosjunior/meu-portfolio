@@ -5,7 +5,7 @@ export default {
       window.open("https://github.com/Marcelobastosjunior", "_blank")
     },
     redirecionarParaLinkedin() {
-      window.open("https://www.linkedin.com/in/marcelo-bastos-jr-380869255/", "_blank")
+      window.open("https://www.linkedin.com/in/marcelo-bastos-junior-380869255/", "_blank")
     }
   }
 };
